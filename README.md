@@ -1,2 +1,2 @@
 # barracuda-spam-firewall-api
-API Examples for Barracuda SPAM Firewall
+API examples for Barracuda SPAM Firewall
