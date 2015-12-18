@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF8"?>
+<methodCall>
+ <methodName>user.list</methodName>
+  <params>
+   <param>
+    <value>
+     <struct/>
+    </value>
+   </param>
+  </params>
+</methodCall>

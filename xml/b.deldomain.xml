@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF8"?>
+<methodCall>
+ <methodName>domain.delete</methodName>
+  <params>
+   <param>
+    <value>
+     <struct>
+      <member>
+       <name>domain</name>
+        <value>
+         <string>
+          <![CDATA[###DOMAIN###]]>
+         </string>
+        </value>
+      </member>
+    </struct>
+   </value>
+  </param>
+ </params>
+</methodCall>

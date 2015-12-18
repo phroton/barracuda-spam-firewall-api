@@ -1,0 +1,30 @@
+<?XML version="1.0" encoding="UTF8"?>
+<methodCall>                   
+ <methodName>config.get</methodName>
+  <params>    
+   <param>
+    <value>
+      <struct>
+       <member>
+         <name>variable</name>
+         <value>
+	  <string><![CDATA[mta_relay_advanced_host]]></string>
+         </value>
+       </member>
+       <member>
+         <name>path</name>
+         <value>
+	  <string><![CDATA[###DOMAIN###]]></string>
+         </value>
+       </member>
+       <member>
+        <name>type</name>
+         <value>
+          <string><![CDATA[domain]]></string>
+        </value>
+       </member>
+       </struct>
+      </value>
+     </param>
+   </params>  
+</methodCall>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF8"?>
+<methodCall>
+  <methodName>config.reload</methodName>
+    <params>
+     <param>
+      <value>
+       <struct>
+       </struct>
+      </value>
+    </param>
+  </params>
+</methodCall>
